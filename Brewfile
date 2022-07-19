@@ -4,4 +4,4 @@ brew "chruby"
 brew "ruby-install"
 
 tap "homebrew/cask-fonts"
-cask "font-firacode-nerd-font"
+cask "font-fira-code-nerd-font"
