@@ -13,3 +13,6 @@ brew "stow"
 
 # Install direnv for managing per-project environments
 brew "direnv"
+
+# Install Raycast for a productive launcher
+cask "raycast"
