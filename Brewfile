@@ -1,3 +1,6 @@
+# Install mas to allow installation of Mac App Store apps from this Brewfile
+brew "mas"
+
 brew "git"
 
 brew "chruby"
@@ -16,3 +19,6 @@ brew "direnv"
 
 # Install Raycast for a productive launcher
 cask "raycast"
+
+# Install Magnet for window management
+mas "Magnet", id: 441258766
