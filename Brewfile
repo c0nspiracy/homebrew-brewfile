@@ -31,3 +31,6 @@ cask "1password"
 
 # Install ripgrep (rg) for a faster grep utility
 brew "ripgrep"
+
+# Install exa, a modern replacement for ls
+brew "exa"
