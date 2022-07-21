@@ -25,3 +25,6 @@ mas "Magnet", id: 441258766
 
 # Install Mozilla Firefox
 cask "firefox"
+
+# Install 1Password for password management
+cask "1password"
