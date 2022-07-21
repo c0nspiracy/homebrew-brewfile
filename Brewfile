@@ -22,3 +22,6 @@ cask "raycast"
 
 # Install Magnet for window management
 mas "Magnet", id: 441258766
+
+# Install Mozilla Firefox
+cask "firefox"
