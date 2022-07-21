@@ -28,3 +28,6 @@ cask "firefox"
 
 # Install 1Password for password management
 cask "1password"
+
+# Install ripgrep (rg) for a faster grep utility
+brew "ripgrep"
