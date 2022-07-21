@@ -34,3 +34,6 @@ brew "ripgrep"
 
 # Install exa, a modern replacement for ls
 brew "exa"
+
+# Install neovim
+brew "neovim"
