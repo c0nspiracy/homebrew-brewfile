@@ -40,3 +40,6 @@ brew "neovim"
 
 # Install zoxide for a better cd command
 brew "zoxide"
+
+# Install fzf for a command-line fuzzy finder
+brew "fzf"
