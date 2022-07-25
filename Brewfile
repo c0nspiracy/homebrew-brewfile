@@ -37,3 +37,6 @@ brew "exa"
 
 # Install neovim
 brew "neovim"
+
+# Install zoxide for a better cd command
+brew "zoxide"
