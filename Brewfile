@@ -43,3 +43,6 @@ brew "zoxide"
 
 # Install fzf for a command-line fuzzy finder
 brew "fzf"
+
+# Install overmind for a process manager for Procfile-based applications
+brew "overmind"
