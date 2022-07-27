@@ -46,3 +46,6 @@ brew "fzf"
 
 # Install overmind for a process manager for Procfile-based applications
 brew "overmind"
+
+# Install Todoist for a reminders & project planner
+mas "Todoist", id: 585829637
