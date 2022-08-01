@@ -52,3 +52,6 @@ mas "Todoist", id: 585829637
 
 # Install Syncthing for continuous file synchronization
 brew "syncthing"
+
+# Install Topnotch to hide the notch
+cask "topnotch"
