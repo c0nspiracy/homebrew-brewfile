@@ -49,3 +49,6 @@ brew "overmind"
 
 # Install Todoist for a reminders & project planner
 mas "Todoist", id: 585829637
+
+# Install Syncthing for continuous file synchronization
+brew "syncthing"
