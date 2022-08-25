@@ -55,3 +55,6 @@ brew "syncthing"
 
 # Install Topnotch to hide the notch
 cask "topnotch"
+
+# Install amphetamine for a powerful keep-awake utility
+mas "Amphetamine", id: 937984704
