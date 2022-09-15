@@ -58,3 +58,6 @@ cask "topnotch"
 
 # Install amphetamine for a powerful keep-awake utility
 mas "Amphetamine", id: 937984704
+
+# Install jq for a JSON manipulation tool
+brew "jq"
