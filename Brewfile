@@ -61,3 +61,6 @@ mas "Amphetamine", id: 937984704
 
 # Install jq for a JSON manipulation tool
 brew "jq"
+
+# Install fd as a fast alternative to "find"
+brew "fd"
