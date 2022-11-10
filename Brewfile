@@ -64,3 +64,6 @@ brew "jq"
 
 # Install fd as a fast alternative to "find"
 brew "fd"
+
+# Install bat as a cat clone with syntax highlighting and Git integration
+brew "bat"
