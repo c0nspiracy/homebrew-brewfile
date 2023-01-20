@@ -8,6 +8,8 @@ brew "ruby-install"
 
 tap "homebrew/cask-fonts"
 cask "font-fira-code-nerd-font"
+cask "font-victor-mono"
+cask "font-victor-mono-nerd-font"
 
 brew "starship"
 
