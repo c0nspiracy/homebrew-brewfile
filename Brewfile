@@ -70,3 +70,6 @@ brew "fd"
 
 # Install bat as a cat clone with syntax highlighting and Git integration
 brew "bat"
+
+# Install SQLite
+brew "sqlite"
