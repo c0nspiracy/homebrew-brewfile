@@ -80,3 +80,12 @@ brew "gpg"
 
 # Install iina - the modern media player for macOS
 cask "iina"
+
+# Kitman Labs Specific
+# --------------------------------------------------------------------------
+
+# Install AWS vault
+cask "aws-vault"
+
+# Install Python
+brew "python"
