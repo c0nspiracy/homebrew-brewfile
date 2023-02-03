@@ -74,3 +74,6 @@ brew "bat"
 
 # Install SQLite
 brew "sqlite"
+
+# Install GnuPG
+brew "gpg"
