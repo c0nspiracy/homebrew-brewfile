@@ -77,3 +77,6 @@ brew "sqlite"
 
 # Install GnuPG
 brew "gpg"
+
+# Install iina - the modern media player for macOS
+cask "iina"
