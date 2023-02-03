@@ -11,8 +11,8 @@ cask "font-fira-code-nerd-font"
 cask "font-victor-mono"
 cask "font-victor-mono-nerd-font"
 
-# Install Spaceship prompt for zsh
-brew "spaceship"
+# Install Starship prompt for zsh
+brew "starship"
 
 # Install GNU Stow for managing symlinked dotfiles
 brew "stow"
