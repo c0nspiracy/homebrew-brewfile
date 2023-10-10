@@ -81,6 +81,12 @@ brew "gpg"
 # Install iina - the modern media player for macOS
 cask "iina"
 
+# Install bfs as a fast breadth-first-search replacement to "find"
+brew "bfs"
+
+# Install delta, "a syntax-highlighting pager for git, diff, and grep output"
+brew "git-delta"
+
 # Kitman Labs Specific
 # --------------------------------------------------------------------------
 
