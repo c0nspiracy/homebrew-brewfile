@@ -87,6 +87,9 @@ brew "bfs"
 # Install delta, "a syntax-highlighting pager for git, diff, and grep output"
 brew "git-delta"
 
+# Install tmux
+brew "tmux"
+
 # Kitman Labs Specific
 # --------------------------------------------------------------------------
 
