@@ -3,8 +3,8 @@ brew "mas"
 
 brew "git"
 
-brew "chruby"
-brew "ruby-install"
+# Install asdf, the Multiple Runtime Version Manager
+brew "asdf"
 
 tap "homebrew/cask-fonts"
 cask "font-fira-code-nerd-font"
@@ -92,6 +92,3 @@ brew "git-delta"
 
 # Install AWS vault
 cask "aws-vault"
-
-# Install Python
-brew "python"
