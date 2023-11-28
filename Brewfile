@@ -87,6 +87,9 @@ brew "git-delta"
 # Install tmux
 brew "tmux"
 
+# Aliases for Homebrew
+tap "homebrew/aliases"
+
 # Kitman Labs Specific
 # --------------------------------------------------------------------------
 
